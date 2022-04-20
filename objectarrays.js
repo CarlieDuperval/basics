@@ -15,6 +15,7 @@ let instructor = {
         age:13,
         gender: 'male'
     }],
+
     pets:{
         dogs:['Ryder'],
         cats:null,

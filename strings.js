@@ -19,4 +19,4 @@ const produce = delivery.split('|')
 console.log(produce)
 
 
-console.log(delivery.includes('watermelon'))// to check if water melon is includes
+console.log(delivery.includes('watermelon'))

@@ -11,5 +11,6 @@ console.log(car)
 const carJson = JSON.stringify(car)
 console.log(carJson)
 
+
 const carParsed = JSON.parse(carJson)
 console.log(carParsed)

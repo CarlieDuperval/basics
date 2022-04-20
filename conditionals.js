@@ -4,7 +4,7 @@ let firstName = null
 let lastName = "Duperval"
 
 if (firstName) {
-    console.log(`Hello World , ${firstName}`) // backtips for template litereal
+    console.log(`Hello World , ${firstName}`) 
 }else if (lastName){
     console.log("My last name is " +   lastName)
 } else {
@@ -43,10 +43,7 @@ function sum(a, b){
 let addition = sum(2, 7)
 console.log(" The sum is", addition)
 
-// Homework
-//Linux commands
-//Variables
-//
+
 
 
 

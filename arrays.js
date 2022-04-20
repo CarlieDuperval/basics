@@ -1,7 +1,7 @@
 let cars = ['Ferrari', 'Lamborghini','Audi', 'Astron Martin', 'Ford']
-console.log(cars[1]) // Lamborghini
+console.log(cars[1]) 
 
-console.log(cars.length)// 5
+console.log(cars.length)
 
 
 let ourCars = [{
@@ -20,9 +20,9 @@ let ourCars = [{
 ]
 
 console.log(ourCars[1].miles)
-// to know the miles per year
 
-const { miles, year} = ourCars[0] // grabing miles and cars in ourCars at index zero
+
+const { miles, year} = ourCars[0] 
 const age = 2022 - year
 const mileage = miles / year
 

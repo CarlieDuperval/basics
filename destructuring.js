@@ -14,4 +14,4 @@ console.log(firstName, hair)
 const alumni = ['Ashley', 'Peter', 'Aurelie','Sebas', ]
 
 const [first, second, third] = alumni
-console.log(first, second, third)  // destructing the Array: print Aurelie Ashley 
+console.log(first, second, third)   

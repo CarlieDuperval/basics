@@ -3,7 +3,6 @@ let bananas = {
     price: 0.39,
     sku : "4066",
     origin: "Costa Rica"
-
 }
 
 bananas.origin = 'Guatemala'
